@@ -1,4 +1,4 @@
-CREATE TABLE `user` (
+CREATE TABLE `bearingType` (
   `btype_id` int(11) NOT NULL AUTO_INCREMENT,
   `b_type` varchar(10) NOT NULL,
   `cn_new_type` varchar(20),
