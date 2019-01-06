@@ -1,3 +1,5 @@
+create database bearingTypedb default character set utf8 ;
+
 CREATE TABLE `bearingType` (
   `btype_id` int(11) NOT NULL AUTO_INCREMENT,
   `b_type` varchar(10) NOT NULL,
